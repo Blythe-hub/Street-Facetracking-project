@@ -1,0 +1,1 @@
+Created a pedestrian and car tracking program that can detect pedestrians and cars. Pedestrians are green and cars are red.
