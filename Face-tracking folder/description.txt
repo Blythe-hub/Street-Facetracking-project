@@ -1,0 +1,1 @@
+This is a face tracking program that was created by Varun Venkatesh using the OpenCV library and python.
